@@ -822,7 +822,7 @@ humidifier_modules = [
             HumidifierModes.SLEEP: 'sleep',
             HumidifierModes.MANUAL: 'manual',
         },
-        mist_levels=list(range(1, 3)),
+        mist_levels=list(range(1, 6)),
         device_alias='NeoClassic 450S',
         model_display='LUH-N451S Series',
         model_name='NeoClassic 450S',
